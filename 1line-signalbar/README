@@ -1,0 +1,13 @@
+Usage Example 
+ 
+
+http://localhost:8080/1line-signalbar/bar.xml?path=http://superspademo.appspot.com/home.html
+Ping Path = http://superspademo.appspot.com/home.html
+
+		Response 	Bar
+		Under 100ms  5
+		100-300 	 4
+		300- 500 	 3
+		500- 1000 	 2 
+		5000 		 1
+		Above		 0
